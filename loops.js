@@ -15,5 +15,6 @@ function doWhileLoop(i) {
   do {console.log('I run once regardless.')
 }
   while(
-    function incrementVariable() < 10)
-  }
+    function incrementVariable() {
+      i < 10)}
+  }}
