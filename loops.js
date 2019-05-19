@@ -10,9 +10,3 @@ function whileLoop(n) {
   return "done"
 }
 
-function doWhileLoop(i) {
-  do {console.log('I run once regardless.')
-}
-  while(
-    function incrementVariable() < i)
-  }
