@@ -6,13 +6,8 @@ function forLoop(array) {
 }
 
 function maybeTrue() {
-    return Math.random() >= 0.5
+    return Math.random() >= 0.5}
     
 function whileLoop(n) {
-  function maybeTrue() {
-    return Math.random() >= 0.5
-    
   while (n > 0) {console.log(--n);
   return "done"}}
-  
-}
