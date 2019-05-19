@@ -13,7 +13,6 @@ function whileLoop(n) {
 function doWhileLoop(i) {
   do {console.log('I run once regardless.')
 }
-  while {
-    function incrementVariable() < n;
-}
+  while (
+    function incrementVariable() < n);
   }
