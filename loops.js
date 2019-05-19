@@ -10,7 +10,7 @@ function whileLoop(n) {
   return "done"
 }
 
-var i =
+var i = 1
 function incrementVariable() {
   i = i + 1;
   return i;
