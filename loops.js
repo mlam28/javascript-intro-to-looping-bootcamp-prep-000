@@ -14,5 +14,8 @@ function doWhileLoop(i) {
   do {[loopBody]
 }
   while {
-    
+    function incrementVariable() {
+  i = i + 1;
+  return i;
+}
   }
